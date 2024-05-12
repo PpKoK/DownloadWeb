@@ -71,27 +71,27 @@ export default {
           items: [ /* downloadUrls:1.阿里云盘2.夸克网盘3.百度网盘 */
             { id: 1, title: 'Ps2019 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
             { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 2, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] }
+            { id: 3, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 4, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 5, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 6, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 7, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 8, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 9, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 10, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 11, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 12, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 13, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 14, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 15, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 17, title: 'Ps2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] }
           ]
         },{
           name: 'Illustrator',
           image: './img/illustrator.svg',
           items: [
-            { id: 3, title: 'Ai2021 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
-            { id: 4, title: 'Ai2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] }
+            { id: 18, title: 'Ai2021 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] },
+            { id: 19, title: 'Ai2020 win 版', downloadUrls: ['https://www.ppkok.com', 'https://www.ppkok.com', 'https://www.ppkok.com'] }
           ]
         },
         // 其他分类...
@@ -99,6 +99,7 @@ export default {
       darkMode: false,
       searchTerm: '',
       currentPage: 1,
+      // 分类下内容展示数量就翻页，默认10个一页...
       itemsPerPage: 10
     };
   },
